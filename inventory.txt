@@ -1,176 +1,176 @@
 :AdventureTicket: Adventure Ticket ─ 126
-:Reply: Equipment
+Equipment
 
 :AhaPitcherPlant: Aha's Pitcher Plant ─ 5
-:Reply: Collectible
+Collectible
 
 :Alcohol: Alcohol ─ 13
-:Reply: Buff
+Buff
 
 :Bullet: Ammo ─ 2
-:Reply: Buff
+Buff
 
 :Ant: Ant ─ 1,305
-:Reply: Sellable
+Sellable
 
 :AntiRobPack: Anti-Rob Pack ─ 1
-:Reply: Pack
+Pack
 
 :Apple: Apple ─ 497
-:Reply: Buff
+Buff
 
 :ArmpitHair: Armpit Hair ─ 1
-:Reply: Collectible
+Collectible
 
 :banknote: Bank Note ─ 12
-:Reply: Buff
+Buff
 
 :BlueBits: Blue Plastic Bits ─ 11
-:Reply: Collectible
+Collectible
 
 :Boar: Boar ─ 222
-:Reply: Sellable
+Sellable
 
 :Cactus: Cactus ─ 53
-:Reply: Collectible
+Collectible
 
 :phone: Cell Phone ─ 11
-:Reply: Equipment
+Equipment
 
 :CoinVoucher: Coin Voucher ─ 1
-:Reply: Pack
+Pack
 
 :CowBoyHat: Cowboy Hat ─ 13
-:Reply: Trinket
+Trinket
 
 :DailyBoxClosed: Daily Box ─ 3
-:Reply: Loot Box
+Loot Box
 
 :DankBoxClosed: Dank Box ─ 6
-:Reply: Loot Box
+Loot Box
 
 :Deer: Deer ─ 475
-:Reply: Sellable
+Sellable
 
 :Dragon: Dragon ─ 101
-:Reply: Sellable
+Sellable
 
 :Duck: Duck ─ 441
-:Reply: Sellable
+Sellable
 
 :DuctTape: Duct Tape ─ 4
-:Reply: Equipment
+Equipment
 
 :Fossil: Fossil ─ 151
-:Reply: Sellable
+Sellable
 
 :Garbage: Garbage ─ 1
-:Reply: Sellable
+Sellable
 
 :GoldenCorndog: Golden Corndog ─ 1
-:Reply: Collectible
+Collectible
 
 :GoldenNugget: Golden Nugget ─ 121
-:Reply: Sellable
+Sellable
 
 :GoldenBits: Golden Plastic Bits ─ 1
-:Reply: Collectible
+Collectible
 
 :GraveStone: Gravestone ─ 10
-:Reply: Collectible
+Collectible
 
 :GrindPack: Grind Pack ─ 1
-:Reply: Pack
+Pack
 
 :LowRifle: Hunting Rifle ─ 1
-:Reply: Equipment
+Equipment
 
 :Ladybug: Ladybug ─ 156
-:Reply: Sellable
+Sellable
 
 :Lasso: Lasso ─ 35
-:Reply: Sellable
+Sellable
 
 :LikeButton: Like Button ─ 13
-:Reply: Collectible
+Collectible
 
 :LuckyHorseshoe: Lucky Horseshoe ─ 2
-:Reply: Buff
+Buff
 
 :MemeBoxClosed: Meme Box ─ 1
-:Reply: Loot Box
+Loot Box
 
 :MoleMan: Mole Man ─ 46
-:Reply: Sellable
+Sellable
 
 :NewPlayerPack: New Player Pack ─ 1
-:Reply: Pack
+Pack
 
 :NormieBoxClosed: Normie Box ─ 1
-:Reply: Loot Box
+Loot Box
 
 :WoodBoxClosed: Old Box ─ 3
-:Reply: Loot Box
+Loot Box
 
 :OrangeBits: Orange Plastic Bits ─ 3
-:Reply: Collectible
+Collectible
 
 :padlock: Padlock ─ 1
-:Reply: Buff
+Buff
 
 :PepeBoxClosed: Pepe Box ─ 5
-:Reply: Loot Box
+Loot Box
 
 :PepeCoin: Pepe Coin ─ 7
-:Reply: Collectible
+Collectible
 
 :PepeStatue: Pepe Statue ─ 513
-:Reply: Collectible
+Collectible
 
 :PinkSludgeMonster: Pink Sludge Monster ─ 52
-:Reply: Sellable
+Sellable
 
 :Pizza: Pizza Slice ─ 17
-:Reply: Buff
+Buff
 
 :Rabbit: Rabbit ─ 1,113
-:Reply: Sellable
+Sellable
 
 :RarePepe: Rare Pepe ─ 14
-:Reply: Collectible
+Collectible
 
 :Hotdog: Sanic Hot Dog ─ 2
-:Reply: Collectible
+Collectible
 
 :IronShovel: Shovel ─ 4
-:Reply: Equipment
+Equipment
 
 :shreddedcheese: Shredded Cheese ─ 459
-:Reply: Buff
+Buff
 
 :Skunk: Skunk ─ 1,149
-:Reply: Sellable
+Sellable
 
 :Spider: Spider ─ 121
-:Reply: Sellable
+Sellable
 
 :StackOfCash: Stack of Cash ─ 12
-:Reply: Equipment
+Equipment
 
 :StickBug: Stickbug ─ 482
-:Reply: Sellable
+Sellable
 
 :StolenAmulet: Stolen Amulet ─ 1
-:Reply: Buff
+Buff
 
 :TriviaTrophy: Trivia Trophy ─ 323
-:Reply: Collectible
+Collectible
 
 :Diaper: Used Diaper ─ 3
-:Reply: Debuff
+Debuff
 
 :Worm: Worm ─ 1,627
-:Reply: Sellable
+Sellable
 
 :Capybara: Zig's Capybara ─ 244
-:Reply: Sellable
+Sellable
