@@ -1,260 +1,176 @@
+:AdventureTicket: Adventure Ticket ─ 126
+:Reply: Equipment
 
-:AdventureTicket: Adventure Ticket ─ 256
-Tool
+:AhaPitcherPlant: Aha's Pitcher Plant ─ 5
+:Reply: Collectible
 
-:AdventureVoucher: Adventure Voucher ─ 3
-:WiltedFlower: Aetheryx' Flower ─ 5
-Collectable
+:Alcohol: Alcohol ─ 13
+:Reply: Buff
 
-:Alcohol: Alcohol ─ 72
-Powep
+:Bullet: Ammo ─ 2
+:Reply: Buff
 
-:Bullet: Ammo ─ 3
-Power-up
+:Ant: Ant ─ 1,305
+:Reply: Sellable
 
-:Ant: Ant ─ 333
-Sellable
+:AntiRobPack: Anti-Rob Pack ─ 1
+:Reply: Pack
 
-:Apple: Apple ─ 233
-Power-up
+:Apple: Apple ─ 497
+:Reply: Buff
 
-:ArmpitHair: Armpit Hair ─ 5
-Collectable
-:King: Badosz's Card ─ 2
-Collectable
+:ArmpitHair: Armpit Hair ─ 1
+:Reply: Collectible
 
-:banknote: Bank Note ─ 425
-Power-up
+:banknote: Bank Note ─ 12
+:Reply: Buff
 
-:SludgeBarrel: Barrel of Sludge ─ 8
-Collectable
+:BlueBits: Blue Plastic Bits ─ 11
+:Reply: Collectible
 
-:Bean: Bean ─ 26
-Sellable
+:Boar: Boar ─ 222
+:Reply: Sellable
 
-:BlackHole: Black Hole ─ 2
-Collectable
+:Cactus: Cactus ─ 53
+:Reply: Collectible
 
-:BlueBits: Blue Plastic Bits ─ 271
-Collectable
+:phone: Cell Phone ─ 11
+:Reply: Equipment
 
-:BluesPlane: Blue's Plane ─ 3
-Collectable
+:CoinVoucher: Coin Voucher ─ 1
+:Reply: Pack
 
-:Boar: Boar ─ 122
-Sellable
-:BottleOfWhiskey: Bottle of Whiskey ─ 2
-Power-up
+:CowBoyHat: Cowboy Hat ─ 13
+:Reply: Trinket
 
-:sand: Box of Sand ─ 1,238
-Tool
+:DailyBoxClosed: Daily Box ─ 3
+:Reply: Loot Box
 
-:BunnysApron: Bunny's Apron ─ 5
-Collectable
+:DankBoxClosed: Dank Box ─ 6
+:Reply: Loot Box
 
-:Camera: Camera ─ 11
-Tool
+:Deer: Deer ─ 475
+:Reply: Sellable
 
-:Candy: Candy ─ 104
-Power-up
+:Dragon: Dragon ─ 101
+:Reply: Sellable
 
-:phone: Cell Phone ─ 81
-Tool
+:Duck: Duck ─ 441
+:Reply: Sellable
 
-:ChillPill: Chill Pill ─ 71
-Collectable
+:DuctTape: Duct Tape ─ 4
+:Reply: Equipment
 
-:CoinBomb: Coin Bomb ─ 5
-Tool
-:CommonFish: Common Fish ─ 577
-Sellable
+:Fossil: Fossil ─ 151
+:Reply: Sellable
 
-:Cookie: Cookie ─ 80
-Sellable
+:Garbage: Garbage ─ 1
+:Reply: Sellable
 
-:CornBag: Corn Seeds ─ 9
-Tool
+:GoldenCorndog: Golden Corndog ─ 1
+:Reply: Collectible
 
-:CornDog: Corndog ─ 21
-Sellable
+:GoldenNugget: Golden Nugget ─ 121
+:Reply: Sellable
 
-:DailyBoxClosed: Daily Box ─ 2
-Loot Box
+:GoldenBits: Golden Plastic Bits ─ 1
+:Reply: Collectible
 
-:DankBoxClosed: Dank Box ─ 3
-Loot Box
+:GraveStone: Gravestone ─ 10
+:Reply: Collectible
 
-:Deer: Deer ─ 252
-Sellable
+:GrindPack: Grind Pack ─ 1
+:Reply: Pack
 
-:DarkusHoodie: Designer Hoodie ─ 7
-Collectable
-:Dragon: Dragon ─ 194
-Sellable
+:LowRifle: Hunting Rifle ─ 1
+:Reply: Equipment
 
-:Duck: Duck ─ 260
-Sellable
+:Ladybug: Ladybug ─ 156
+:Reply: Sellable
 
-:DuctTape: Duct Tape ─ 2
-Tool
+:Lasso: Lasso ─ 35
+:Reply: Sellable
 
-:Ring: Engagement Ring ─ 4
-Collectable
+:LikeButton: Like Button ─ 13
+:Reply: Collectible
 
-:ExoticFish: Exotic Fish ─ 156
-Sellable
+:LuckyHorseshoe: Lucky Horseshoe ─ 2
+:Reply: Buff
 
-:FakeID: Fake ID ─ 15
-Tool
+:MemeBoxClosed: Meme Box ─ 1
+:Reply: Loot Box
 
-:FishingBait: Fishing Bait ─ 2
-Power-up
+:MoleMan: Mole Man ─ 46
+:Reply: Sellable
 
-:MedFishingPole: Fishing Pole ─ 2
-Tool
-:Fossil: Fossil ─ 46
-Sellable
+:NewPlayerPack: New Player Pack ─ 1
+:Reply: Pack
 
-:Baguette: Fresh Bread ─ 71
-Sellable
+:NormieBoxClosed: Normie Box ─ 1
+:Reply: Loot Box
 
-:Garbage: Garbage ─ 746
-Sellable
+:WoodBoxClosed: Old Box ─ 3
+:Reply: Loot Box
 
-:GoldenBits: Golden Plastic Bits ─ 33
-Collectable
+:OrangeBits: Orange Plastic Bits ─ 3
+:Reply: Collectible
 
-:GraveStone: Gravestone ─ 860
-Collectable
+:padlock: Padlock ─ 1
+:Reply: Buff
 
-:GreenScreen: Green Screen ─ 1
-Tool
+:PepeBoxClosed: Pepe Box ─ 5
+:Reply: Loot Box
 
-:Hoe: Hoe ─ 16
-Tool
+:PepeCoin: Pepe Coin ─ 7
+:Reply: Collectible
 
-:LowRifle: Hunting Rifle ─ 62
-Tool
-:JellyFish: Jelly Fish ─ 176
-Sellable
+:PepeStatue: Pepe Statue ─ 513
+:Reply: Collectible
 
-:Keyboard: Keyboard ─ 17
-Tool
+:PinkSludgeMonster: Pink Sludge Monster ─ 52
+:Reply: Sellable
 
-:Kraken: Kraken ─ 58
-Sellable
+:Pizza: Pizza Slice ─ 17
+:Reply: Buff
 
-:Ladybug: Ladybug ─ 119
-Sellable
+:Rabbit: Rabbit ─ 1,113
+:Reply: Sellable
 
-:laptop: Laptop ─ 1
-Collectable
+:RarePepe: Rare Pepe ─ 14
+:Reply: Collectible
 
-:LegendaryFish: Legendary Fish ─ 76
-Sellable
+:Hotdog: Sanic Hot Dog ─ 2
+:Reply: Collectible
 
-:LifeSaver: Life Saver ─ 1
-Power-up
+:IronShovel: Shovel ─ 4
+:Reply: Equipment
 
-:LikeButton: Like Button ─ 3
-Collectable
-:LuckyHorseshoe: Lucky Horseshoe ─ 14
-Power-up
+:shreddedcheese: Shredded Cheese ─ 459
+:Reply: Buff
 
-:Microphone: Microphone ─ 2
-Tool
+:Skunk: Skunk ─ 1,149
+:Reply: Sellable
 
-:MoleMan: Mole Man ─ 43
-Sellable
+:Spider: Spider ─ 121
+:Reply: Sellable
 
-:Mouse: Mouse ─ 4
-Tool
+:StackOfCash: Stack of Cash ─ 12
+:Reply: Equipment
 
-:MultiBits: Multi Colored Plastic Bits ─ 28
-Collectable
+:StickBug: Stickbug ─ 482
+:Reply: Sellable
 
-:NormieBoxClosed: Normie Box ─ 12
-Loot Box
+:StolenAmulet: Stolen Amulet ─ 1
+:Reply: Buff
 
-:WoodBoxClosed: Old Box ─ 1
-Loot Box
+:TriviaTrophy: Trivia Trophy ─ 323
+:Reply: Collectible
 
-:OrangeBits: Orange Plastic Bits ─ 16
-Collectable
-:padlock: Padlock ─ 211
-Tool
+:Diaper: Used Diaper ─ 3
+:Reply: Debuff
 
-:PepeCoin: Pepe Coin ─ 3
-Collectable
+:Worm: Worm ─ 1,627
+:Reply: Sellable
 
-:PepeStatue: Pepe Statue ─ 184
-Collectable
-
-:PinkBits: Pink Plastic Bits ─ 1
-Collectable
-
-:Pizza: Pizza Slice ─ 40
-Power-up
-
-:PoliceBadge: Police Badge ─ 10
-Collectable
-
-:NormalPotato: Potato ☭ ─ 7
-Sellable
-
-:PurpleBits: Purple Plastic Bits ─ 15
-Collectable
-:Bunny: Rabbit ─ 872
-Sellable
-
-:RareFish: Rare Fish ─ 102
-Sellable
-
-:RarePepe: Rare Pepe ─ 61
-Collectable
-
-:RobbersWishlist: Robbers Wishlist ─ 3
-Tool
-
-:Scepter: Royal Scepter ─ 2
-Collectable
-
-:Hotdog: Sanic Hot Dog ─ 53
-Collectable
-
-:SeaWeed: Seaweed ─ 255
-Sellable
-
-:IronShovel: Shovel ─ 1
-Tool
-:shreddedcheese: Shredded Cheese ─ 79
-Power-up
-
-:Skunk: Skunk ─ 994
-Sellable
-
-:Spider: Spider ─ 47
-Sellable
-
-:YengsPaw: Squishy Paw ─ 1
-Collectable
-
-:StickBug: Stickbug ─ 67
-Sellable
-
-:TriviaTrophy: Trivia Trophy ─ 11,724
-Collectable
-
-:WaterBucket: Water Bucket ─ 6
-Tool
-
-:WateringCan: Watering Can ─ 20
-Tool
-:Worm: Worm ─ 1,410
-Sellable
-
-:Capybara: Zig's Capybara ─ 107
-Sellable
-
-:zombees: ZomB's ZomBee ─ 1
-Collectable
+:Capybara: Zig's Capybara ─ 244
+:Reply: Sellable
