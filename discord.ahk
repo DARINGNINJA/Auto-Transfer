@@ -10,7 +10,7 @@
     {
         if (value != 0) 
         {
-            Send, /friends share items {DISCORD ID} `t %value% `t %key%
+            Send, /friends share items {1282374997003735181} `t %value% `t %key%
             Sleep, 1500
             Send, {Enter}
             Send, {Enter}
